@@ -4,8 +4,8 @@
 
 **AI Automation Engineer** — building production AI systems, not demos.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Portfolio](https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white)](https://mubashir-naeem-janjua.lovable.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mubashir-naeem-251595280/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mubashirnaeemj@gmail.com)
 
 </div>
@@ -61,21 +61,21 @@ Currently building AI automation infrastructure at **Axioware**, where I've ship
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[AI Calling Platform](#)** | Autonomous outbound calling system running 500 AI calls/day with post-call analysis synced to Salesforce | FastAPI · PostgreSQL · Celery · ElevenLabs · Deepgram |
-| **[AI Calling Assistant](#)** | Desktop app giving sales agents real-time transcription and LLM dialogue suggestions on live calls | Electron · Deepgram · OpenAI |
-| **[Lead Enrichment System](#)** | n8n workflow enriching and scoring 100–200 leads per run, auto-generating cold call scripts | n8n · Google Places API · OpenAI · Twilio |
-| **[Ulcer Classification System](#)** | Full-stack diagnostic support tool classifying endoscopic images across 8 classes with Grad-CAM explainability | TensorFlow · DenseNet121 · Flask · MySQL |
-| **[Sign Language Translator](#)** | Real-time sign language to English translation using pose estimation | MediaPipe · TensorFlow · OpenCV |
+| **AI Calling Platform** | Autonomous outbound calling system running 500 AI calls/day with post-call analysis synced to Salesforce | FastAPI · PostgreSQL · Celery · ElevenLabs · Deepgram |
+| **AI Calling Assistant** | Desktop app giving sales agents real-time transcription and LLM dialogue suggestions on live calls | Electron · Deepgram · OpenAI |
+| **Lead Enrichment System** | n8n workflow enriching and scoring 100–200 leads per run, auto-generating cold call scripts | n8n · Google Places API · OpenAI · Twilio |
+| **Ulcer Classification System** | Full-stack diagnostic support tool classifying endoscopic images across 8 classes with Grad-CAM explainability | TensorFlow · DenseNet121 · Flask · MySQL |
+| **Sign Language Translator** | Real-time sign language to English translation using pose estimation | MediaPipe · TensorFlow · OpenCV |
 
-*(Swap the `#` links for your actual repo URLs)*
+*Full details on each project: [mubashir-naeem-janjua.lovable.app](https://mubashir-naeem-janjua.lovable.app/)*
 
 ---
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=09090B&title_color=3B82F6&icon_color=22C55E&text_color=FAFAFA)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mubashirnaeemj&show_icons=true&theme=dark&hide_border=true&bg_color=09090B&title_color=3B82F6&icon_color=22C55E&text_color=FAFAFA)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=09090B&title_color=3B82F6&text_color=FAFAFA)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mubashirnaeemj&layout=compact&theme=dark&hide_border=true&bg_color=09090B&title_color=3B82F6&text_color=FAFAFA)
 
 </div>
 

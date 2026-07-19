@@ -67,7 +67,7 @@ Currently building AI automation infrastructure at **Axioware**, where I've ship
 | **Ulcer Classification System** | Full-stack diagnostic support tool classifying endoscopic images across 8 classes with Grad-CAM explainability | TensorFlow · DenseNet121 · Flask · MySQL |
 | **Sign Language Translator** | Real-time sign language to English translation using pose estimation | MediaPipe · TensorFlow · OpenCV |
 
-*Full details on each project: [mubashir-naeem-janjua.lovable.app](https://mubashir-naeem-janjua.lovable.app/)*
+*Full details on each project: [mubashir-naeem-janjua.lovable.app](https://mubashir-naeem-janjua.lovable.app/#work)*
 
 ---
 

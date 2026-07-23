@@ -75,6 +75,8 @@ Currently building AI automation infrastructure at **Axioware**, where I've ship
 
 ![GitHub Stats](https://github-readme-stats-gold-five-85.vercel.app/api?username=mubashirnaeemj&show_icons=true&theme=dark&hide_border=true&bg_color=09090B&title_color=3B82F6&icon_color=22C55E&text_color=FAFAFA)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mubashirnaeemj&theme=dark&hide_border=true&background=09090B&stroke=3B82F6&ring=3B82F6&fire=22C55E&currStreakLabel=FAFAFA)](https://git.io/streak-stats)
+
 ![Top Langs](https://github-readme-stats-gold-five-85.vercel.app/api/top-langs/?username=mubashirnaeemj&layout=compact&theme=dark&hide_border=true&bg_color=09090B&title_color=3B82F6&text_color=FAFAFA)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mubashirnaeemj&theme=dark&hide_border=true&background=09090B&stroke=3B82F6&ring=3B82F6&fire=22C55E&currStreakLabel=FAFAFA)](https://git.io/streak-stats)

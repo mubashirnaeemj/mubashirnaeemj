@@ -82,7 +82,7 @@ Currently building AI automation infrastructure at **Axioware**, where I've ship
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mubashirnaeemj&theme=github-compact&bg_color=09090B&color=3B82F6&line=3B82F6&point=22C55E&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mubashirnaeemj/mubashirnaeemj/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/mubashirnaeemj/mubashirnaeemj/output/github-snake.svg" alt="GitHub Snake Animation">
 </p>
 
 </div>

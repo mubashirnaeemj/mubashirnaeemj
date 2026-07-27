@@ -76,6 +76,11 @@ Currently building AI automation infrastructure at **Axioware**, where I've ship
 ## ⏱ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ![GitHub Stats](https://github-readme-stats-gold-five-85.vercel.app/api?username=mubashirnaeemj&show_icons=true&theme=dark&hide_border=true&bg_color=09090B&title_color=3B82F6&icon_color=22C55E&text_color=FAFAFA)

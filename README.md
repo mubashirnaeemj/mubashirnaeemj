@@ -2,11 +2,15 @@
 
 # Mubashir Naeem Janjua
 
-**AI Automation Engineer** — building production AI systems, not demos.
+**AI Automation Engineer | Backend Developer | LLM & Workflow Automation**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white)](https://mubashir-naeem-janjua.lovable.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mubashir-naeem-251595280/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mubashirnaeemj@gmail.com)
+![](https://komarev.com/ghpvc/?username=mubashirnaeemj&style=for-the-badge&color=3B82F6)
+![Profile Views](https://komarev.com/ghpvc/?username=mubashirnaeemj&style=flat-square&color=3B82F6)
+![GitHub followers](https://img.shields.io/github/followers/mubashirnaeemj?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/mubashirnaeemj?affiliations=OWNER&style=flat-square)
 
 </div>
 
@@ -14,7 +18,7 @@
 
 ### What I build
 
-I design and ship AI-powered backend systems that replace manual business processes — outbound calling platforms, lead enrichment pipelines, voice agents, and workflow automation that runs 24/7 in production, not just in a demo call.
+I build production-ready AI automation systems that streamline business operations through LLMs, backend engineering, workflow automation, and voice AI. My focus is on scalable, reliable systems that solve real business problems.
 
 Currently building AI automation infrastructure at **Axioware**, where I've shipped systems handling 500+ AI-driven calls/day and processing hundreds of leads with zero manual intervention.
 
@@ -59,7 +63,7 @@ Currently building AI automation infrastructure at **Axioware**, where I've ship
 
 ### Featured work
 
-| Project | What it does | Stack |
+| Project | Impact | Tech |
 |---|---|---|
 | **AI Calling Platform** | Autonomous outbound calling system running 500 AI calls/day with post-call analysis synced to Salesforce | FastAPI · PostgreSQL · Celery · ElevenLabs · Deepgram |
 | **AI Calling Assistant** | Desktop app giving sales agents real-time transcription and LLM dialogue suggestions on live calls | Electron · Deepgram · OpenAI |

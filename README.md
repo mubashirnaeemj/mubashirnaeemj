@@ -119,7 +119,7 @@ Other        13 mins               ▓░░░░░░░░░░░░░░
 
 <br>
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mubashirnaeemj&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-trophies.vercel.app/?username=mubashirnaeemj&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mubashirnaeemj/mubashirnaeemj/output/github-snake.svg" alt="GitHub Snake Animation">

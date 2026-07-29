@@ -8,11 +8,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mubashir-naeem-251595280/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mubashirnaeemj@gmail.com)
 
-![](https://komarev.com/ghpvc/?username=mubashirnaeemj&style=for-the-badge&color=3B82F6)
-![Profile Views](https://komarev.com/ghpvc/?username=mubashirnaeemj&style=flat-square&color=3B82F6)
-![GitHub followers](https://img.shields.io/github/followers/mubashirnaeemj?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/mubashirnaeemj?affiliations=OWNER&style=flat-square)
-
 </div>
 
 ---

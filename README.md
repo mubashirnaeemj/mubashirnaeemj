@@ -76,17 +76,7 @@ Currently building AI automation infrastructure at **Axioware**, where I've ship
 ## ⏱ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-
-```txt
-Total Time: 9 hrs 38 mins
-
-Python       5 hrs 53 mins         ███████████████░░░░░░░░░░   59.73 %
-Markdown     1 hr 59 mins          █████░░░░░░░░░░░░░░░░░░░░   20.22 %
-Bash         1 hr 12 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.19 %
-Text         23 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
-Other        13 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
 ```
-
 <!--END_SECTION:waka-->
 
 ![GitHub Stats](https://github-readme-stats-gold-five-85.vercel.app/api?username=mubashirnaeemj&show_icons=true&theme=dark&hide_border=true&bg_color=09090B&title_color=3B82F6&icon_color=22C55E&text_color=FAFAFA)

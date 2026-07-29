@@ -78,12 +78,13 @@ Currently building AI automation infrastructure at **Axioware**, where I've ship
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 6 hrs 46 mins
+Total Time: 9 hrs 38 mins
 
-Python     5 hrs 47 mins         █████████████████████▒░░░   85.44 %
-Markdown   50 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.34 %
-Bash       6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-HTML       2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Python       5 hrs 53 mins         ███████████████░░░░░░░░░░   59.73 %
+Markdown     1 hr 59 mins          █████░░░░░░░░░░░░░░░░░░░░   20.22 %
+Bash         1 hr 12 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.19 %
+Text         23 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
+Other        13 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
 ```
 
 <!--END_SECTION:waka-->

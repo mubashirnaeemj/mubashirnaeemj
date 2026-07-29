@@ -117,6 +117,10 @@ Other        13 mins               ▓░░░░░░░░░░░░░░
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mubashirnaeemj&theme=github-compact&bg_color=09090B&color=3B82F6&line=3B82F6&point=22C55E&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<br>
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mubashirnaeemj&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/mubashirnaeemj/mubashirnaeemj/output/github-snake.svg" alt="GitHub Snake Animation">
 </p>

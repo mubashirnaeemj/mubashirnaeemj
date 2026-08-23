@@ -99,10 +99,10 @@ Currently building AI automation infrastructure at **Axioware**, where I've ship
 ```txt
 Total Time: 15 hrs 8 mins
 
-Python       8 hrs 6 mins          █████████████░░░░░░░░░░░░   52.23 %
-Markdown     4 hrs 16 mins         ███████░░░░░░░░░░░░░░░░░░   27.60 %
-Bash         2 hrs 25 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.62 %
-Other        22 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+Python       8 hrs 6 mins          █████████████░░░░░░░░░░░░   52.08 %
+Markdown     4 hrs 16 mins         ███████░░░░░░░░░░░░░░░░░░   27.52 %
+Bash         2 hrs 25 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.58 %
+Other        25 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
 Git Config   14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
 ```
 

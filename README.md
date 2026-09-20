@@ -115,7 +115,7 @@ HTML         14 mins               ▒░░░░░░░░░░░░░░
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mubashirnaeemj&theme=dark&hide_border=true&background=09090B&stroke=3B82F6&ring=3B82F6&fire=22C55E&currStreakLabel=FAFAFA)](https://git.io/streak-stats)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mubashirnaeemj&theme=github-compact&bg_color=09090B&color=3B82F6&line=3B82F6&point=22C55E&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph-blond-three.vercel.app/graph?username=mubashirnaeemj&theme=github-compact&bg_color=09090B&color=3B82F6&line=3B82F6&point=22C55E&area=true&hide_border=true)](https://github.com/mubashirnaeemj)
 
 <img src="https://github-trophies.vercel.app/?username=mubashirnaeemj&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=8" alt="GitHub Trophies" />
 

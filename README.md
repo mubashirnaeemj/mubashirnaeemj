@@ -77,7 +77,7 @@ Currently building AI automation infrastructure at **Axioware**, where I've ship
 | Project | Impact | Tech |
 |---|---|---|
 | **AI Calling Platform** | Runs 500 autonomous AI calls/day with post-call analysis synced to Salesforce | FastAPI · PostgreSQL · Celery · ElevenLabs · Deepgram |
-| **AI Calling Assistant** | Gives sales agents real-time transcription and LLM dialogue suggestions on live calls | Electron · Deepgram · OpenAI |
+| **AI Calling Assistant** | Gives sales agents real-time transcription and LLM dialogue suggestions on live calls | Electron · Deepgram · Claude |
 | **Lead Enrichment System** | Enriches and scores 100–200 leads per run, auto-generating cold call scripts | n8n · Google Places API · OpenAI · Twilio |
 | **Ulcer Classification System** *(Final Year Project)* | Classifies endoscopic images across 8 classes with Grad-CAM explainability | TensorFlow · DenseNet121 · Flask · MySQL |
 | **Sign Language Translator** | Translates sign language to English in real time using pose estimation | MediaPipe · TensorFlow · OpenCV |

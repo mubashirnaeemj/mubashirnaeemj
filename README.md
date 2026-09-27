@@ -25,7 +25,7 @@ Currently building AI automation infrastructure at **Axioware**, where I've ship
 - 🔧 I care more about a system staying up at 3am than about a flashy prototype
 - 🧩 Most of my work sits at the intersection of LLMs, backend engineering, and CRM/API integration
 - 📈 Before automating anything, I spend time understanding the actual business process I'm replacing
-- 🎓 Recent AI graduate, actively building toward backend/automation engineering roles
+- 🎓 AI graduate now building production automation systems full-time at Axioware
 
 <br>
 

@@ -136,13 +136,13 @@ Coursework includes Data Structures & Algorithms, Database Management Systems, M
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 19 hrs 27 mins
+Total Time: 18 hrs 35 mins
 
-Python       10 hrs 13 mins       ███████████░░░░░░░░░░░░░░   45.82 %
-TypeScript   2 hrs 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.13 %
-Other        2 hrs 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.85 %
-Bash         2 hrs 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.21 %
-Markdown     2 hrs 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.18 %
+Python       11 hrs 9 mins        █████████████░░░░░░░░░░░░   52.53 %
+Bash         2 hrs 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.11 %
+TypeScript   2 hrs 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.42 %
+Other        2 hrs 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.48 %
+Markdown     36 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
 ```
 
 <!--END_SECTION:waka-->
